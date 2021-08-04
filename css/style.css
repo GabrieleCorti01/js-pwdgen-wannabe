@@ -1,0 +1,15 @@
+
+.row{
+    height: 100vh;
+}
+
+[class^="col"]{
+    background-color: black;
+    padding: 20px;
+    color: rgb(212, 212, 212);
+    border: 2px solid rgb(255, 218, 7);
+}
+
+h1, h4{
+    color: rgb(255, 218, 7);
+}
